@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "932275271377",
+    "firebase_url": "https://quiz-club-app.firebaseio.com",
+    "project_id": "quiz-club-app",
+    "storage_bucket": "quiz-club-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932275271377:android:fd7d549233b06ca5",
+        "android_client_info": {
+          "package_name": "com.example.harshvardhan.quizclubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932275271377-egj6vo7p82ntpl769ep1bpkqgnf2qthu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harshvardhan.quizclubapp",
+            "certificate_hash": "84cdc68a04f9e12b4a9154d3f32dd2fb86a94ac1"
+          }
+        },
+        {
+          "client_id": "932275271377-f4h6n0m1v5arflp7mldgsmptsvua2h5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6LCuyTNK_knoAw0mVQcHCDlkIDj8mAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932275271377-f4h6n0m1v5arflp7mldgsmptsvua2h5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
